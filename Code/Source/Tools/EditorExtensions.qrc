@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/EditorExtensions">
+        <!-- Future icons and resources go here -->
+    </qresource>
+</RCC>
